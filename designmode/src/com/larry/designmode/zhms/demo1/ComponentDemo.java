@@ -85,7 +85,7 @@ public class ComponentDemo {
         Composite compositeLeft = demo.new Composite();  
         compositeLeft.name = "左节点";  
   
-        // 构建右节点，添加两个叶子几点，也就是子部件  
+        // 构建右节点，添加两个叶子节点，也就是子部件   
         Composite compositeRight = demo.new Composite();  
         compositeRight.name = "右节点";  
         Leaf leaf1 = demo.new Leaf();  
